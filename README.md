@@ -28,10 +28,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sonpxp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sonpxp" /></a></p><br><br>
 <h3 align="left">Statistical:</h3>
-<p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonpxp&show_icons=true&locale=en&layout=compact" alt="sonpxp" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sonpxp&show_icons=true&locale=en" alt="sonpxp" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sonpxp&" alt="sonpxp" /></p>
-</p>
