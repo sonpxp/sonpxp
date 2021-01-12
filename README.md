@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Son</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 - 🌱 I’m currently learning **Kotlin, Php, Python**
