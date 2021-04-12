@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Son</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **Kotlin, Php, Python**
+- 🌱 I’m currently learning **Java, Kotlin, Php, Python**
 
-- 📝 I regularly write articles on [cloudxanh.com](cloudxanh.com)
+- 📝 I regularly write articles on (cloudxanh.com)
 
 - 💬 Ask me about **Java and kotlin**
 
-- 📫 How to reach me **player.vng@gmail.com**
+- 📫 How to reach me **sonpxp@gmail.com**
 
 - ⚡ Fun fact **Oh no no**
 
