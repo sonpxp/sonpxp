@@ -63,15 +63,11 @@ I'm a web and mobile developer. My technical stack involves Java, Kotlin, Python
 <br/>
 
 ## Github Analytics 📝
-
-| <a href="https://github.com/sonpxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sonpxp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sonpxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonpxp&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-## Github contribution 🐍
-
-<p align="center">
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<div align="center">
+  <a href="https://github.com/sonpxp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonpxp&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonpxp&layout=compact&langs_count=7&theme=buefy"/>
+</div>
 
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
