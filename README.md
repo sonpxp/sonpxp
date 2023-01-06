@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px">&nbsp;***About me***
 
-I'm a web and mobile developer. My technical stack involves Java, Kotlin, Python, JavaScript, HTML, CSS, and NodeJS. I love to learn and build something new, productive, innovative and creative.
+I'm a web and mobile developer. My technical stack involves <kbd>Java</kbd>, <kbd>Kotlin</kbd>, <kbd>Python</kbd>, <kbd>JavaScript</kbd>, <kbd>HTML/CSS</kbd>, and <kbd>NodeJS</kbd>. I love to learn and build something new, productive, innovative and creative.
 
 - 🔥 **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
