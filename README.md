@@ -63,11 +63,8 @@ I'm a web and mobile developer. My technical stack involves <kbd>Java</kbd>, <kb
 <br/>
 
 ## Github Analytics 📝
-<div align="center">
-  <a href="https://github.com/sonpxp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonpxp&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonpxp&layout=compact&langs_count=7&theme=buefy"/>
-</div>
+  | <a href="https://github.com/sonpxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sonpxp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sonpxp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonpxp&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
@@ -76,8 +73,9 @@ I'm a web and mobile developer. My technical stack involves <kbd>Java</kbd>, <kb
 <!--🪳ROACH&🕷️SPIDER--> 
 <p align="left">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
-  
- <!--🦶FOOTER--> 
+ 
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 <p align="right">
 <i>Last refresh</i>: <b>Friday, September 2nd, 2022, 2:09:00 PM</b>
 <!-- 
